@@ -4,6 +4,8 @@
 Sou apaixonado por programação.
 Aspirante a FullStack Developer :computer:
 
+[Portifólio](https://andrejr.dev)
+
  :rocket:  &nbsp; Estou trabalhando na **INKASA**
  <br/> :purple_heart: &nbsp; Visando sempre o próximo nível
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript & Laravel
