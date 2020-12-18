@@ -42,8 +42,12 @@ Olá, Sou o [André Junior](https://andrejr.dev), sou apaixonado por programaç�
 
 📈 My GitHub Stats
 
-<p align="center" style="display: flex; align-items: center; width: 100%; flex-wrap: wrap; justify-content: space-between"> 
+<p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api?username=andrejr971&show_icons=true&theme=gotham" alt="andrejr971" /> 
+</p>
+<p align="center"> 
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andrejr971&layout=compact&theme=gotham" />
+</p>
+<p align="center"> 
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=andrejr971&repo=gobaber-gostack02&theme=gotham" />
 </p>
